@@ -1,4 +1,3 @@
-# contact-management-system
 #include &lt;stdio.h&gt;
 #include &lt;stdlib.h&gt;
 #include &lt;string.h&gt;
